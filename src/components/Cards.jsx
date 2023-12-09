@@ -2,7 +2,7 @@ import React from 'react';
 import moptro from '../assets/moptro logo.png';
 import group from '../assets/Group46.png';
 import '../components/App.css';
-import searchIcon from '../assets/searchicon.png';
+import searchIcon from '../assets/searchIcon.png';
 
 const DashBoard = () => {
   const Details = [
