@@ -44,7 +44,7 @@ const DashBoard = () => {
             >
               <div
                 style={{
-                  background: '#1A2C2C99 0% 0% no-repeat padding-box;',
+                  background: '#1A2C2C99 0% 0% no-repeat padding-box',
                   mixBlendMode: 'normal',
                   opacity: 1
 
@@ -63,7 +63,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
@@ -77,7 +77,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
@@ -91,7 +91,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
@@ -105,7 +105,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
@@ -119,7 +119,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
@@ -133,7 +133,7 @@ const DashBoard = () => {
                   <input
                     id="default-range"
                     type="range"
-                    value={4}
+                    // value={4}
                     min={1}
                     max={100}
                     className="w-1/2 h-[10px] rounded-lg appearance-none cursor-pointer dark:bg-gray-100"
